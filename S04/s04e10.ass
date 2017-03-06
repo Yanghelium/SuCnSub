@@ -17,7 +17,7 @@ Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
 Scroll Position: 208
-Active Line: 218
+Active Line: 229
 Video Position: 571
 
 [V4+ Styles]
@@ -269,7 +269,7 @@ Dialogue: 100,0:09:32.70,0:09:34.80,Normal Dialog Text,,0,0,0,,{\rCHS}但，她�
 Dialogue: 100,0:09:35.40,0:09:37.82,Normal Dialog Text,,0,0,0,,{\rCHS}这种感觉很难承受\N{\rENG}That feeling can be so hard to be okay with.
 Dialogue: 100,0:09:38.94,0:09:41.36,Normal Dialog Text,,0,0,0,,{\rCHS}我很惊讶一个人类\N{\rENG}I'm surprised that a human being
 Dialogue: 100,0:09:41.36,0:09:44.30,Normal Dialog Text,,0,0,0,,{\rCHS}能理解我的感受\N{\rENG}is capable of understanding how I feel.
-Dialogue: 100,0:09:45.18,0:09:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}真是可惜\rENG}It's a shame.
+Dialogue: 100,0:09:45.18,0:09:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}真是可惜\N{rENG}It's a shame.
 Dialogue: 100,0:09:46.90,0:09:49.82,Normal Dialog Text,,0,0,0,,{\rCHS}你的星球孕育着一个宝石武器\N{\rENG}There's a geo-weapon incubating in your planet
 Dialogue: 100,0:09:49.82,0:09:52.62,Normal Dialog Text,,0,0,0,,{\rCHS}它将很快摧毁一切\N{\rENG}that will destroy everything shortly.
 Dialogue: 100,0:09:53.30,0:09:56.62,Normal Dialog Text,,0,0,0,,{\rCHS}但，你不应承受这些，不是吗？\N{\rENG}But you don't deserve that, do you?
